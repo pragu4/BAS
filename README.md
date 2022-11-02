@@ -31,6 +31,6 @@ A Fiori application.
 
 #### Pre-sdrequisites:
 
-1. Active NodeJS LTS (Long Term Support) version and associated supported an NPM version.  (See https://nodejs.org)
+1. Active NodeJS LTS (Long Term Support) version and and associated supported an NPM version.  (See https://nodejs.org)
 
 
