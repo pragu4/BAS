@@ -29,7 +29,7 @@ A Fiori application.
     npm start
 ```
 
-#### Pre-requisites:
+#### Pre-sdrequisites:
 
 1. Active NodeJS LTS (Long Term Support) version and associated supported an NPM version.  (See https://nodejs.org)
 
